@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19188" started-at="2019-06-18T09:17:53Z" finished-at="2019-06-18T09:18:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19188" started-at="2019-06-18T09:17:53Z" finished-at="2019-06-18T09:18:12Z">
+      <class name="com.training.sanity.tests.UniformTests">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.UniformTests@7e0babb1]" name="setUpBeforeClass" is-config="true" duration-ms="188" started-at="2019-06-18T14:47:53Z" finished-at="2019-06-18T14:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.UniformTests@7e0babb1]" name="setUp" is-config="true" duration-ms="8241" started-at="2019-06-18T14:47:53Z" finished-at="2019-06-18T14:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="orderDelete()[pri:0, instance:com.training.sanity.tests.UniformTests@7e0babb1]" name="orderDelete" duration-ms="8674" started-at="2019-06-18T14:48:01Z" finished-at="2019-06-18T14:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDelete -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.UniformTests@7e0babb1]" name="tearDown" is-config="true" duration-ms="2076" started-at="2019-06-18T14:48:10Z" finished-at="2019-06-18T14:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.UniformTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
